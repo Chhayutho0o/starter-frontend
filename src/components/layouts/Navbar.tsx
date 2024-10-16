@@ -22,13 +22,7 @@ export const Navbar = ({ profile }: { profile: ProfileType }) => {
           <div className="sm:hidden block" />
           <div className="sm:flex hidden">
             <Button asChild variant={"link"} className={cn(pathname === "/app-name" && "underline")}>
-              <Link href={"/app-name"}>{t("titles.app-name")}</Link>
-            </Button>
-            <Button asChild variant={"link"} className={cn(pathname === "/contact" && "underline")}>
-              <Link href={"/contact"}>{t("titles.contact")}</Link>
-            </Button>
-            <Button asChild variant={"link"} className={cn(pathname === "/others" && "underline")}>
-              <Link href={"/others"}>{t("titles.others")}</Link>
+              <Link href={"/app-name"}>{t("titles.app_name")}</Link>
             </Button>
           </div>
           <UserButton profile={profile} />
