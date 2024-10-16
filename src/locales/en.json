@@ -1,0 +1,38 @@
+{
+  "errors": { "required": "{field} field is required" },
+  "common": {
+    "opps": "Opps!",
+    "back": "Back"
+  },
+
+  "customPage": {
+    "somethingWhenWrong": "Oops! Something went wrong. Try to refresh this page or \n feel free to contact us if the problem persists.",
+    "pageNotFound": "404 - Page not found",
+    "errorServer": "500 - Server error",
+    "backHome": "Back to Homepage",
+    "sorryPageNotFound": "Sorry, we can't find that page. You'll find lots to explore on the home page. "
+  },
+  "titles": {
+    "app_name": "app-name"
+  },
+  "attributes": {
+    "name": "Name",
+    "username": "Username",
+    "email": "Email",
+    "password": "Password",
+    "password_confirmation": "Password confirmation"
+  },
+  "validations": {
+    "invalid": "{attribute} is invalid",
+    "required": "{attribute} is required",
+    "not_match": "{attribute1} does not match {attribute2}",
+    "min_char": "{attribute} must be at least {min} characters long"
+  },
+  "auth": {
+    "sign_in": "Sign in",
+    "sign_up": "Sign up",
+    "have_account": "Already have an account?",
+    "dont_have_account": "Don't have account yet?",
+    "forget_password": "Forget password?"
+  }
+}

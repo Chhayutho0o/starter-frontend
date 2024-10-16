@@ -1,0 +1,38 @@
+{
+  "errors": { "required": "{field} គឺត្រូវការ" },
+  "common": {
+    "opps": "អូអូ!",
+    "back": "ត្រឡប់ក្រោយ"
+  },
+
+  "customPage": {
+    "somethingWhenWrong": "អូអូ! មានអ្វីមួយបានកើតឡើង។ សូមព្យាយាមកែលើទំព័រនេះ ឬ \nសូមទាក់ទងមកយើងប្រសិនបើបញ្ហានេះនៅតែមាន។",
+    "pageNotFound": "404 - មិនអាចរកឃើញទំព័រ",
+    "errorServer": "500 - កំហុសម៉ាស៊ីនមេ",
+    "backHome": "ត្រឡប់ទៅទំព័រដើម",
+    "sorryPageNotFound": "សូមទោស យើងមិនអាចរកឃើញទំព័រនោះបានទេ។ អ្នកអាចស្វែងរកអ្វីជាច្រើននៅលើទំព័រដើម។"
+  },
+  "titles": {
+    "app_name": "ឈ្មោះកម្មវិធី"
+  },
+  "attributes": {
+    "name": "ឈ្មោះ",
+    "username": "ឈ្មោះអ្នកប្រើ",
+    "email": "អ៊ីមែល",
+    "password": "លេខសំងាត់",
+    "password_confirmation": "ការបញ្ជាក់លេខសំងាត់"
+  },
+  "validations": {
+    "invalid": "{attribute} មិនត្រឹមត្រូវ",
+    "required": "{attribute} គឺត្រូវការ",
+    "not_match": "{attribute1} មិនផ្គូផ្គងនឹង {attribute2}",
+    "min_char": "{attribute} ត្រូវតែមានយ៉ាងតិច {min} តួអក្សរ"
+  },
+  "auth": {
+    "sign_in": "ចូលគណនី",
+    "sign_up": "ចុះឈ្មោះ",
+    "have_account": "អ្នកមានគណនីហើយឬ?",
+    "dont_have_account": "មិនទាន់មានគណនី?",
+    "forget_password": "ភ្លេចលេខសំងាត់?"
+  }
+}

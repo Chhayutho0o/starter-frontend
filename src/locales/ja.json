@@ -1,0 +1,38 @@
+{
+  "errors": { "required": "{field} フィールドは必須です" },
+  "common": {
+    "opps": "おっと！",
+    "back": "戻る"
+  },
+
+  "customPage": {
+    "somethingWhenWrong": "おっと！何かがうまくいきませんでした。ページをリフレッシュするか、\n問題が続く場合はお気軽にご連絡ください。",
+    "pageNotFound": "404 - ページが見つかりません",
+    "errorServer": "500 - サーバーエラー",
+    "backHome": "ホームページに戻る",
+    "sorryPageNotFound": "申し訳ありませんが、そのページを見つけることができません。ホームページでたくさんのコンテンツを探すことができます。"
+  },
+  "titles": {
+    "app_name": "アプリ名"
+  },
+  "attributes": {
+    "name": "名前",
+    "username": "ユーザー名",
+    "email": "メールアドレス",
+    "password": "パスワード",
+    "password_confirmation": "パスワード確認"
+  },
+  "validations": {
+    "invalid": "{attribute} が無効です",
+    "required": "{attribute} は必須です",
+    "not_match": "{attribute1} と {attribute2} が一致しません",
+    "min_char": "{attribute} は少なくとも {min} 文字必要です"
+  },
+  "auth": {
+    "sign_in": "ログイン",
+    "sign_up": "サインアップ",
+    "have_account": "すでにアカウントをお持ちですか？",
+    "dont_have_account": "まだアカウントをお持ちではありませんか？",
+    "forget_password": "パスワードを忘れましたか？"
+  }
+}

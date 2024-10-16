@@ -1,0 +1,38 @@
+{
+  "errors": { "required": "{field} 字段是必填的" },
+  "common": {
+    "opps": "哎呀！",
+    "back": "返回"
+  },
+
+  "customPage": {
+    "somethingWhenWrong": "哎呀！出了点问题。请尝试刷新此页面，\n如果问题仍然存在，请随时联系我们。",
+    "pageNotFound": "404 - 页面未找到",
+    "errorServer": "500 - 服务器错误",
+    "backHome": "返回主页",
+    "sorryPageNotFound": "抱歉，我们找不到该页面。您可以在主页上找到很多内容。"
+  },
+  "titles": {
+    "app_name": "应用名称"
+  },
+  "attributes": {
+    "name": "姓名",
+    "username": "用户名",
+    "email": "邮箱",
+    "password": "密码",
+    "password_confirmation": "确认密码"
+  },
+  "validations": {
+    "invalid": "{attribute} 无效",
+    "required": "{attribute} 是必填的",
+    "not_match": "{attribute1} 与 {attribute2} 不匹配",
+    "min_char": "{attribute} 至少需要 {min} 个字符"
+  },
+  "auth": {
+    "sign_in": "登录",
+    "sign_up": "注册",
+    "have_account": "已经有账号了？",
+    "dont_have_account": "还没有账号？",
+    "forget_password": "忘记密码？"
+  }
+}
